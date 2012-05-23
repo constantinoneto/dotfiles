@@ -20,7 +20,7 @@
 	p = diff --cached
 [giggle]
 	main-window-maximized = false
-	main-window-geometry = 1427x741+7+24
+	main-window-geometry = 1427x741+7+30
 	history-view-vpane-position = 433
 	file-view-vpane-position = 308
 	main-window-view = HistoryView

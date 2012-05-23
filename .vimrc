@@ -1,13 +1,15 @@
-" Necessary on some Linux distros for pathogen to properly load bundles
-filetype off
-
-
-" Enable detection, plugins and indenting in one step
-filetype plugin indent on
-
 " Use Vim settings, rather then Vi settings (much better!).
 " This must be first, because it changes other options as a side effect.
 set nocompatible
+
+" Necessary on some Linux distros for pathogen to properly load bundles
+filetype off
+
+call pathogen#runtime_append_all_bundles()
+"call pathogen#helptags()
+
+" Enable detection, plugins and indenting in one step
+filetype plugin indent on
 
 " Editing behaviour {{{
 set showmode                    " always show what mode we're currently editing in
