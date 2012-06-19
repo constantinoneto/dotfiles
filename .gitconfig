@@ -12,12 +12,12 @@
 	d = diff
 	b = branch
 	pl = pull
-  l  = log
   a  = add
 	co = checkout
 	cm = commit -m
 	pu = push
 	p = diff --cached
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --
 [giggle]
 	main-window-maximized = false
 	main-window-geometry = 1427x741+7+30
