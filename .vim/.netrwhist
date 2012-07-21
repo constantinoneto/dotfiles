@@ -1,6 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/home/projetos/rails/safira/lib/rotinas/ranking_contas_30_60_dias'
 let g:netrw_dirhist_2='/home/programas/tomcat/webapps/associados/template'
 let g:netrw_dirhist_3='/'
 let g:netrw_dirhist_4='/var/spool/cron/atjobs'
+let g:netrw_dirhist_5='/home/constantino/.rvm'
