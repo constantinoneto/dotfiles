@@ -2,8 +2,6 @@
 :update_sources: true
 :bulk_threshold: 1000
 :sources: 
-- http://gems.rubyforge.org/
-- http://gems.github.com
 - http://gemcutter.org
 - http://gems.rubyonrails.org
 :backtrace: false

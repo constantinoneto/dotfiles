@@ -37,3 +37,6 @@
 [submodule ".vim/bundle/super-tab"]
 	path = .vim/bundle/super-tab
 	url = https://github.com/ervandew/supertab.git
+[submodule ".vim/bundle/vim-rdoc"]
+	path = .vim/bundle/vim-rdoc
+	url = https://github.com/depuracao/vim-rdoc.git
