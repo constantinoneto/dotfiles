@@ -40,3 +40,6 @@
 [submodule ".vim/bundle/vim-rdoc"]
 	path = .vim/bundle/vim-rdoc
 	url = https://github.com/depuracao/vim-rdoc.git
+[submodule ".vim/bundle/ack-grep"]
+	path = .vim/bundle/ack-grep
+	url = https://github.com/mileszs/ack.vim.git
